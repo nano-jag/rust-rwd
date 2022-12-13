@@ -1,3 +1,3 @@
 # Rust Web Development 
 
-Source code (WIP) for the [Rust book published with Manning](https://www.manning.com/books/rust-web-development).
+Source code (fork) for the Rust book: Rust Web Development by Bastian Gruber 
